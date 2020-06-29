@@ -1,21 +1,21 @@
 # 넷링크 소켓 서버 및 클라이언트 구현
 
-![Language][language-c]
-![Platform][platform-linux]
+![language-c][language-c]
+![platform-linux][platform-linux]
 <br>
-![Participants][participants-solo]
+![participants-solo][participants-solo]
 <br>
-[![School Project][korea-university-image]][korea-university-cs-url]
-![Course][course-cose342]
-![Grade][grade-tba]
+[![institution-korea-university][korea-university-image]][korea-university-cs-url]
+![course-computer-network][course-cose342]
+![grade-tba][grade-tba]
 
 > 리눅스에서 넷링크 소켓 서버 및 클라이언트를 구현하는 프로젝트입니다.
 
-## 스크린샷
+### 개발 기간
 
-(준비 중)
+2020년 상반기
 
-## 라이선스 및 공동체 수정
+### 라이선스 및 공동체 수정
 
 이곳은 개인 프로젝트 백업을 목적으로 하는 저장소입니다.
 
