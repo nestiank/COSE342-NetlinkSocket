@@ -1,4 +1,4 @@
-# 넷링크 소켓 서버 및 클라이언트 구현
+# 넷링크 소켓을 이용한 주소 교환 시스템 구현
 
 ![language-c][language-c]
 ![platform-linux][platform-linux]
@@ -9,7 +9,7 @@
 ![course-computer-network][course-cose342]
 ![grade-tba][grade-tba]
 
-> 리눅스에서 넷링크 소켓 서버 및 클라이언트를 구현하는 프로젝트입니다.
+> 리눅스에서 넷링크 소켓을 이용하여 자신의 주소를 공유하는 시스템의 서버 및 클라이언트를 구현하는 프로젝트입니다.
 
 ### 개발 기간
 
