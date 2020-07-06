@@ -7,7 +7,7 @@
 <br>
 [![institution-korea-university][korea-university-image]][korea-university-cs-url]
 ![course-computer-network][course-cose342]
-![grade-tba][grade-tba]
+![grade-a][grade-a]
 
 > 리눅스에서 넷링크 소켓을 이용하여 자신의 주소를 공유하는 시스템의 서버 및 클라이언트를 구현하는 프로젝트입니다.
 
@@ -29,5 +29,5 @@
 [course-cose342]: https://img.shields.io/badge/Course-Computer%20Network-brightgreen
 [language-c]: https://img.shields.io/badge/Language-C-orange
 [platform-linux]: https://img.shields.io/badge/Platform-Linux-yellowgreen
-[grade-tba]: https://img.shields.io/badge/Grade-TBA-lightgrey
+[grade-a]: https://img.shields.io/badge/Grade-A-yellow
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
