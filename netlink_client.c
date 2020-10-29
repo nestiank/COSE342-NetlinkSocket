@@ -48,7 +48,7 @@
 #define IPv4_VM3 "10.1.2.2"
 
 // Confidential data value for verification
-#define STUDENT_ID_NUMBER "2017320110"
+#define STUDENT_ID_NUMBER "1234567890"
 
 // Server socket variable
 int sock;
